@@ -66,22 +66,6 @@ Performance evaluation and feature importance analysis are conducted to assess m
 * `plot_importance.py`
 * `make_final_model_graphs.py`
 
----
-
-## Repository Structure
-
-```text
-.
-├── convert_coordinates.py
-├── match_buildings_to_ura_zones.py
-├── create_neighbourhood_features.py
-├── train_xgboost_neighbourhood.py
-├── plot_importance.py
-├── make_final_model_graphs.py
-├── figures/
-├── results/
-└── README.md
-```
 
 ---
 
